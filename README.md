@@ -37,3 +37,5 @@
 ## 现代著作研究
 
 ## 研究和总结
+
+ - [共产主义是一种宗教](./conclusion/communism_is_a_religion.md)
